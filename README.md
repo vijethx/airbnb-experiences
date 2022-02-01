@@ -1,7 +1,7 @@
 # Airbnb Experiences
 
 This is a clone of Airbnb Experiences, built with React
-![Airbnb Experiences](./experiences.png "Airbnb Experiences")
+![Airbnb Experiences](./airbnb-experiences.png "Airbnb Experiences")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
